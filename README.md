@@ -87,9 +87,9 @@
 
 <p align="center">
   <a href="https://github.com/Farah315">
-    <img width="388em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmedfarani&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmedfarani&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="380em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedfarani&theme=tokyonight&layout=compact&langs_count=8"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedfarani&theme=tokyonight&layout=compact&langs_count=8&hide_progress=true&card_width=250"/>
   </a>
 </p>
 
