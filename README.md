@@ -80,16 +80,16 @@
 <h3 align="left">GitHub Status</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmedfarani&theme=tokyonight&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img height="220" src="https://streak-stats.demolab.com?user=ahmedfarani&theme=tokyonight&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" alt="streak graph" />
 </div>
 
 <br>
 
 <p align="center">
   <a href="https://github.com/Farah315">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmedfarani&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmedfarani&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedfarani&theme=tokyonight&layout=compact&langs_count=8&hide_progress=true&card_width=250"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedfarani&theme=tokyonight&layout=compact&langs_count=8&hide_progress=true"/>
   </a>
 </p>
 
