@@ -1,5 +1,5 @@
 <div align="center" width="50">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR3MzBvM2c3YjdsYXN0dGU0bDl1dTN6dXRhZjB1NmR5dm9mbGVleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="35%"/> <br>
 </div>
 
 <br>
@@ -14,11 +14,15 @@
   </a>
 </div>
 
-<hr>
+<h1 align="center">
+  Code is not just what I write... it's how I think ☠️.
+</h1>
+
+
 <br>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=1000&color=10B981&center=true&vCenter=true&width=550&lines=I'm+Ahmad+Farani+%F0%9F%9A%80;Software+Engineering+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=93A2F7&width=435&lines=I'm+Ahmed+Al-Farani+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Software+Engineering+%F0%9F%92%BB" alt="Typing SVG" />
 </h3>
 
 <br>
