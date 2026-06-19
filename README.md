@@ -77,7 +77,7 @@
   <h3 align="left">About Me</h3>
   
   <p allign="left">
-  Software Engineering student with solid programming skills and hands-on experience in building projects. Passionate about learning new technologies and applying them to create efficient and well-structured       solutions.ine
+  Software Engineering student with solid programming skills and hands-on experience in building projects. Passionate about learning new technologies and applying them to create efficient and well-structured solutions.
   </p>
 
 <br>
