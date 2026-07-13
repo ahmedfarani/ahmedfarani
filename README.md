@@ -12,7 +12,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E)](https://linkedin.com/in/ahmedfarani) [![Email](https://img.shields.io/badge/Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E)](mailto:ahmedfarani@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-2E1A47?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E)](https://github.com/ahmedfarani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E)](https://linkedin.com/in/ahmedfarani) [![Email](https://img.shields.io/badge/Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E)](mailto:ahmedfarani268@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-2E1A47?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E)](https://github.com/ahmedfarani)
 
 <br/>
 
@@ -156,11 +156,13 @@ Designed with semantic HTML and CSS animations, producing a maintainable, visual
 
 **Google Cybersecurity Professional Certificate**
 
-![Google Cybersecurity](https://img.shields.io/badge/Google-Foundations%20of%20Cybersecurity-8A2BE2?style=flat-square&logo=google&logoColor=white) ![Google Cybersecurity](https://img.shields.io/badge/Google-Play%20It%20Safe%3A%20Manage%20Security%20Risks-8A2BE2?style=flat-square&logo=google&logoColor=white) ![Google Cybersecurity](https://img.shields.io/badge/Google-Connect%20and%20Protect%3A%20Networks-8A2BE2?style=flat-square&logo=google&logoColor=white)
+[![Google Cybersecurity](https://img.shields.io/badge/Google-Foundations%20of%20Cybersecurity-8A2BE2?style=flat-square&logo=google&logoColor=white)](https://coursera.org/verify/2LALFOA2JWNT)
+[![Google Cybersecurity](https://img.shields.io/badge/Google-Play%20It%20Safe%3A%20Manage%20Security%20Risks-8A2BE2?style=flat-square&logo=google&logoColor=white)](https://coursera.org/verify/DNUWBOKG9SJB)
+[![Google Cybersecurity](https://img.shields.io/badge/Google-Connect%20and%20Protect%3A%20Networks-8A2BE2?style=flat-square&logo=google&logoColor=white)](https://coursera.org/verify/MMXC8TH26VYB)
 
 **IBM**
 
-![IBM Agility](https://img.shields.io/badge/IBM-Delivering%20Quality%20Work%20with%20Agility-6A0DAD?style=flat-square&logo=ibm&logoColor=white)
+[![IBM Agility](https://img.shields.io/badge/IBM-Delivering%20Quality%20Work%20with%20Agility-6A0DAD?style=flat-square&logo=ibm&logoColor=white)](https://coursera.org/verify/BXAYG4SGS354)
 
 ---
 
