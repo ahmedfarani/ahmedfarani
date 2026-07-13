@@ -12,11 +12,14 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E)](https://linkedin.com/in/ahmedfarani) [![Email](https://img.shields.io/badge/Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E)](mailto:ahmedfarani268@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-2E1A47?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E)](https://github.com/ahmedfarani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A2E)](www.linkedin.com/in/ahmed-farani) 
+[![Email](https://img.shields.io/badge/Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A2E)](mailto:ahmedfarani268@gmail.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-2E1A47?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E)](https://github.com/ahmedfarani)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahmedfarani&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS) ![Followers](https://img.shields.io/github/followers/ahmedfarani?style=for-the-badge&color=8A2BE2&labelColor=1A1A2E&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=ahmedfarani&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS) 
+![Followers](https://img.shields.io/github/followers/ahmedfarani?style=for-the-badge&color=8A2BE2&labelColor=1A1A2E&label=FOLLOWERS)
 
 </div>
 
