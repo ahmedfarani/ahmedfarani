@@ -183,7 +183,6 @@ Designed with semantic HTML and CSS animations, producing a maintainable, visual
 <p align="center">
   <a href="https://github.com/ahmedfarani">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmedfarani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=8A2BE2&text_color=E0AAFF"/>
-        &nbsp;&nbsp;&nbsp;&nbsp;
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedfarani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF"/>
   </a>
 </p>
