@@ -194,6 +194,13 @@ Designed with semantic HTML and CSS animations, producing a maintainable, visual
 
 ---
 
+## 🏅 GitHub Trophies
+<div align="center">
+  <img src="images/trophy.svg" alt="GitHub Trophies" />
+</div>
+
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
