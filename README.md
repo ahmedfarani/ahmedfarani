@@ -48,7 +48,7 @@ I'm a **Software Engineering student** at Al-Aqsa University with a strong found
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=python,java,kotlin,js,html,css&theme=dark)
+![Languages](https://skillicons.dev/icons?i=python,java,kotlin,cs,js,html,css&theme=dark)
 
 **Frontend**
 
