@@ -27,12 +27,12 @@
 
 ## 🔮 About Me
 
-I'm a **Software Engineering student** at Al-Aqsa University with a strong foundation in programming and web development. I'm passionate about **Cybersecurity** — network security, risk management, and building secure systems. I also enjoy applying **AI/ML** to solve real-world problems, but my main focus remains on software engineering and security.
+I'm a **Software Engineering student** at Al-Aqsa University with a strong foundation in programming and web development. I'm passionate about **Cybersecurity** - network security, risk management, and building secure systems. I also enjoy applying **AI/ML** to solve real-world problems, but my main focus remains on software engineering and security.
 
-- 🔐 Deep interest in **Cybersecurity** — network security, risk management, and security frameworks (NIST, CIA Triad)
+- 🔐 Deep interest in **Cybersecurity** | network security, risk management, and security frameworks (NIST, CIA Triad)
 - 💻 Experienced in **full-stack web development**, **Java desktop applications**, and **Python**
-- 🤖 Built AI/ML projects (NLP classifiers) but not specializing — I use ML as a tool to complement my engineering skills
-- 🌱 Always learning — currently exploring advanced cybersecurity concepts and secure coding practices
+- 🤖 Built AI/ML projects (NLP classifiers) but not specializing | I use ML as a tool to complement my engineering skills
+- 🌱 Always learning | currently exploring advanced cybersecurity concepts and secure coding practices
 - 🎯 Goal: Apply technical knowledge and security mindset to protect systems and contribute to a safer digital environment
 
 ### 🎯 Open To
